@@ -117,9 +117,12 @@ form{
 #label6{
     font-size: 14px;
     margin-left: 30px;
+    color: #757575;
 }
 
 
 #a1{
     font-size: 14px;
+    text-decoration: none;
+    color: #42CC7E;
 }
